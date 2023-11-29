@@ -1,0 +1,2 @@
+				Thread[#21,Thread Tris,5,main] TERMINATO
+		Thread[#20,Thread Bis,5,main] TERMINATO

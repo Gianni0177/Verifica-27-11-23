@@ -1,0 +1,7 @@
+Thread Padre : 16
+Thread Padre : 18
+Thread Padre : 20
+Thread Padre : 22
+Thread Padre : 24
+Thread Padre : 26
+Thread Padre : 28
